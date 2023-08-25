@@ -14,7 +14,7 @@ My workshop utilizes an ESP32 and an Arduino Nano. Here are the features of the 
                     
 The ESP32 handles the speech-to-text conversion from Alexa and transmits the desired commands to the Arduino Nano via UART. It also takes care of displaying information and reading various sensors and switches, including temperature and humidity sensors, foot switches, table tap switches, touch switches, etc.<br /><br />
 
-The Arduino Nano receives the commands and is connected to most of the peripherals, enabling it to toggle relays and MOSFETs on and off. Additionally, the Nano controls the 573 individually programmable LEDs mounted across the entire frame. Simultaneously, the 15A MOSFETs manage all the passive 12V LED strips.
+The Arduino Nano receives the commands and is connected to most of the peripherals, enabling it to toggle relays and MOSFETs on and off. Additionally, the Nano controls the 574 individually programmable LEDs mounted across the entire frame. Simultaneously, the 15A MOSFETs manage all the passive 12V LED strips.
 
 
 
