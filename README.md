@@ -2,7 +2,7 @@
 ![20230803_154615](https://github.com/RoboticsAayush/Workshop-Automation/assets/84365147/e4fa1150-09a0-46d0-af38-80b36dd8ee30)
 
 My workshop utilizes an ESP32 and an Arduino Nano. Here are the features of the room:<br />
-Here is the link to my Workshop Tour - [https://www.youtube.com/watch?v=yD-OuP3egbA&pp=ygUOYWF5dXNoIGJoc2FubGk%3D](https://youtu.be/yD-OuP3egbA)
+##Here is the link to my Workshop Tour - [https://www.youtube.com/watch?v=yD-OuP3egbA&pp=ygUOYWF5dXNoIGJoc2FubGk%3D](https://youtu.be/yD-OuP3egbA)
 
 ->All the lights and fans can be controlled via speech or through the dedicated apps.<br />
 ->The air conditioner is automated, and the door can also be opened automatically (I'm looking into improving the system, possibly using hydraulics).<br />
