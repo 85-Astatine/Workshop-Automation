@@ -18,8 +18,8 @@ long start;
 #include <WiFiUdp.h>
 #include <NTPClient.h>
 #include <TimeLib.h>
-const char *ssid     = "Airtel_HappyHome";
-const char *password = "amit@123";
+const char *ssid     = "";
+const char *password = "";//put your wifi ssid and pass here
 
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "asia.pool.ntp.org", 19800, 60000);
